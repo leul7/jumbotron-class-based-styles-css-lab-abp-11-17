@@ -58,7 +58,7 @@ h3#header {
 h1 div.jumbotron {
   font-size: 60px;
 }
-div p.jumbotron {
+p div.jumbotron {
   font-size: 20px;
   padding-left: 40px;
   padding-right: 40px;
